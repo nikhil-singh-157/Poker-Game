@@ -5,5 +5,5 @@ Used the Decks of Cards API https://deckofcardsapi.com to demonstrate the use of
  run index.html in any browser.
  
 # test
- npm install
+ npm install then run 
  Mocha 
